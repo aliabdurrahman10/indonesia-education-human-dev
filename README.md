@@ -1,17 +1,17 @@
-# 📊 Education & Human Development in Indonesia
+# Education & Human Development in Indonesia
 
 Analisis hubungan antara **pendidikan** (rata-rata lama sekolah) dengan **kualitas hidup manusia** (Indeks Pembangunan Manusia & persentase penduduk miskin) berdasarkan data **Badan Pusat Statistik (BPS)** untuk seluruh provinsi di Indonesia (2010–2024).
 
 ---
 
-## 🎯 Tujuan
+## Tujuan (Masih dalam Tahap Pengembangan)
 - Menggali keterkaitan antara **tingkat pendidikan** dengan **indikator kesejahteraan**.
 - Menjawab pertanyaan: apakah peningkatan pendidikan berdampak pada turunnya kemiskinan dan meningkatnya IPM di Indonesia?
 - Memberikan insight berbasis data untuk pengambil kebijakan dan penelitian.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 Sumber data berasal dari BPS (Open Data):
 1. **Rata-rata Lama Sekolah** (2010–2024)  
 2. **Indeks Pembangunan Manusia (IPM)** (2010–2024)  
@@ -21,14 +21,14 @@ Level penyajian: **Provinsi**.
 
 ---
 
-## 🛠️ Tools & Teknologi
+##  Tools & Teknologi
 - **Python**: Pandas, Matplotlib, Seaborn, Statsmodels  
 - **Jupyter Notebook**: eksplorasi & visualisasi  
 - **GitHub**: dokumentasi & versioning  
 
 ---
 
-## 📈 Analisis
+## Analisis
 - **Korelasi** antara lama sekolah dengan IPM & kemiskinan  
 - **Visualisasi heatmap & scatterplot**  
 - **Regresi sederhana & panel data**  
@@ -36,19 +36,19 @@ Level penyajian: **Provinsi**.
 
 ---
 
-## 📊 Contoh Visualisasi
+## Contoh Visualisasi
 
-### 🔥 Heatmap Korelasi
+###  Heatmap Korelasi
 ![Heatmap](images/heatmap_korelasi.png)
 
-### 📉 Scatter Plot
+###  Scatter Plot
 ![Scatter](images/scatter_rls_vs_kemiskinan.png)
 
-> 📌 Gambar di atas menunjukkan hubungan **negatif yang kuat** antara lama sekolah dengan persentase penduduk miskin.
+>  Gambar di atas menunjukkan hubungan **negatif yang kuat** antara lama sekolah dengan persentase penduduk miskin.
 
 ---
 
-## 🚀 Cara Menjalankan
+##  Cara Menjalankan
 1. Clone repository:
    ```bash
    git clone https://github.com/username/edu-lifequality-indonesia.git
@@ -65,14 +65,14 @@ Level penyajian: **Provinsi**.
 
 ---
 
-## 📜 Lisensi
+##  Lisensi
 Data bersumber dari **Badan Pusat Statistik (BPS)**.  
 Kode dan analisis dirilis dengan lisensi **MIT License**.
 
 ---
 
 ## 👤 Kontributor
-- [Ali / @username](https://github.com/username)  
+- [Ali / @aliabdurrahman10](https://github.com/aliabdurrahman10)  
 
 ---
 
