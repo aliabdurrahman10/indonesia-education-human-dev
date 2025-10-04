@@ -4,7 +4,7 @@ Analisis hubungan antara **pendidikan** (rata-rata lama sekolah) dengan **kualit
 
 ---
 
-## Tujuan (Masih dalam Tahap Pengembangan)
+## Tujuan 
 - Menggali keterkaitan antara **tingkat pendidikan** dengan **indikator kesejahteraan**.
 - Menjawab pertanyaan: apakah peningkatan pendidikan berdampak pada turunnya kemiskinan dan meningkatnya IPM di Indonesia?
 - Memberikan insight berbasis data untuk pengambil kebijakan dan penelitian.
