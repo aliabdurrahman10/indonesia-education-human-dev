@@ -36,35 +36,6 @@ Level penyajian: **Provinsi**.
 
 ---
 
-## Contoh Visualisasi
-
-###  Heatmap Korelasi
-![Heatmap](images/heatmap_korelasi.png)
-
-###  Scatter Plot
-![Scatter](images/scatter_rls_vs_kemiskinan.png)
-
->  Gambar di atas menunjukkan hubungan **negatif yang kuat** antara lama sekolah dengan persentase penduduk miskin.
-
----
-
-##  Cara Menjalankan
-1. Clone repository:
-   ```bash
-   git clone https://github.com/username/edu-lifequality-indonesia.git
-   cd edu-lifequality-indonesia
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Jalankan Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-
----
-
 ##  Lisensi
 Data bersumber dari **Badan Pusat Statistik (BPS)**.  
 Kode dan analisis dirilis dengan lisensi **MIT License**.
